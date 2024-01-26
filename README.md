@@ -13,9 +13,9 @@ I'm a Full-Stack Developer based in Tel Aviv, Israel.
 
 ```js
   const davidSalem = {
-    pronouns : "he" | "him,
-    code: [Javascript, HTML, CSS, SQL],
-    tools: [React, Node, Boostrap, Firebase, MongooDB]
+    pronouns : "he" | "him",
+    code: [Javascript, HTML, CSS],
+    tools: [React, Node, Boostrap, Firebase, MongooDB, SQL]
   }
 ```
 
